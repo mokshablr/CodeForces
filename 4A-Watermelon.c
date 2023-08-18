@@ -5,7 +5,7 @@ int main(){
     scanf("%d", &w);
 
     if (w>2){
-        if (w%2 == 0){
+        if (w%2 == 0){  //to check if 'w' is even
             printf("YES");
         }
         else{
