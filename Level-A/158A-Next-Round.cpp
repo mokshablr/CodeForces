@@ -1,4 +1,4 @@
-//Did this in CPP since it wasn't working on C in CodeForces
+//Did this in CPP since it wasn't working on C in CodeForces. Probably some logical error but I resorted to cpp. :P
 #include <iostream>
 #include <vector>   //to optimise speed of execution
  
