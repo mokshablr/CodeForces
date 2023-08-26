@@ -1,6 +1,8 @@
 {
     "files.associations": {
+        "*.c": "c",
         "stdio.h": "c",
-        "677a-vANYA-aND-fENCE.C": "cpp"
+        "677a-vANYA-aND-fENCE.C": "cpp",
+        "string.h": "c"
     }
 }
