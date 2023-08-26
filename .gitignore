@@ -52,4 +52,4 @@ Mkfile.old
 dkms.conf
 
 # Test Files
-/test.c
+/Contests/test.c
