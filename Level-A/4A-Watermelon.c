@@ -12,6 +12,7 @@ int main(){
             printf("NO");
         }
     }
+    // Else print no when w<2
     else{
         printf("NO");
     }
